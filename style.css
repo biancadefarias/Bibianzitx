@@ -1,0 +1,28 @@
+/*
+Theme Name: Bibianzitx
+Author: Bianca de Farias
+Description: Tema elaborado em 2020 pela Bianca de Farias, como menção parcial na matéria de Aplicativos para Web do Curso Técnico de Informática para Internet da Escola Técnica Estadual de Itanhaém - ETEC.
+Version: 1.0
+Text Domain: Bibianzitx
+
+Tema elaborado em 2020 pela Bianca de Farias. 
+Como menção parcial na matéria de Aplicativos para Web do Curso Técnico de Informática para Internet da Escola Técnica Estadual de Itanhaém - ETEC.
+*/
+
+
+.titulo{
+	color: #B22222;
+}
+
+.sbv{
+	background-color: #FF6347;
+}
+
+.linha{
+	background-color: #800000;
+}
+
+.foto img{
+	height: 200px;
+	width: 100%;
+}
